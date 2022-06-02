@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zoo-app/static/css/main.aed0e1b1.css",
+    "main.js": "/zoo-app/static/js/main.28cc35f6.js",
+    "static/media/giraffe.png": "/zoo-app/static/media/giraffe.8a9424297a824c4bd1e5.png",
+    "static/media/hippo.png": "/zoo-app/static/media/hippo.4b19f277392c925f1561.png",
+    "static/media/wolf.png": "/zoo-app/static/media/wolf.6a8c2e8784a8272868bf.png",
+    "index.html": "/zoo-app/index.html",
+    "main.aed0e1b1.css.map": "/zoo-app/static/css/main.aed0e1b1.css.map",
+    "main.28cc35f6.js.map": "/zoo-app/static/js/main.28cc35f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed0e1b1.css",
+    "static/js/main.28cc35f6.js"
+  ]
+}
